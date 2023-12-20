@@ -1,0 +1,7 @@
+epired: True
+
+start_learning: 500
+n_steps: 50000
+eval_interval: 500
+
+return_scale: 10

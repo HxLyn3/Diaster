@@ -1,0 +1,8 @@
+epired: True
+
+start_learning: 5000
+n_steps: 2000000
+updates_per_step: 1
+eval_interval: 1000
+
+return_scale: 500
